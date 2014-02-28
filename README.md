@@ -1,7 +1,7 @@
 mark-calculator
 ===============
 
-A basic mark Calculator built with Python
+A basic mark calculator built with Python
 
 Useful for any student wondering what they might get in a course :)
 
